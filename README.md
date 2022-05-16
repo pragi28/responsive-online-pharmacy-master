@@ -1,4 +1,4 @@
-UPMC Online Pharmacy
+KIET ONLINE PHARMACY
 ---------
 
 A pharmaceutical e-commerce website that focuses on rich user experience through key features of Human Computer Interaction.  
